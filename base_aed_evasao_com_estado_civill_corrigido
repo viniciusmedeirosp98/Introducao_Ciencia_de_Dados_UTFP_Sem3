@@ -1,0 +1,151 @@
+Idade;Gênero;Estado Civil;Renda Familiar (R$);Escola Ensino Médio;Status;Motivo da Evasão;Trabalha Atualmente;Último Período Cursado;Desempenho
+18;Feminino;Solteiro(a);1414,37;Pública;Ativo;;Não;5;68,5
+20;Masculino;Divorciado(a);4238,37;Privada;Evadido;Dificuldade financeira;Não;6;76,4
+18;Masculino;Viúvo(a);2295,8;Pública;Ativo;;Não;9;77,8
+27;Outro;Solteiro(a);3765,94;Pública;Evadido;Baixo desempenho;Sim;1;61,9
+30;Masculino;Casado(a);3991,39;Privada;Ativo;;Sim;1;61,6
+27;Outro;Divorciado(a);2626,53;Privada;Evadido;Motivos pessoais;Sim;1;62,1
+19;Outro;Solteiro(a);2425,61;Pública;Evadido;Baixo desempenho;Sim;1;61,8
+26;Feminino;Solteiro(a);1564,17;Privada;Ativo;;Não;8;76,4
+18;Feminino;Divorciado(a);1752,35;Privada;Evadido;Trabalho;Não;4;69,7
+33;Outro;Casado(a);2173,05;Privada;Ativo;;Sim;7;79,5
+33;Feminino;Casado(a);2798,23;Privada;Evadido;Baixo desempenho;Não;6;75,4
+33;Masculino;Solteiro(a);4861,6;Pública;Ativo;;Sim;8;72,2
+25;Masculino;Solteiro(a);1694,63;Privada;Formado;;Não;9;81,8
+29;Masculino;Viúvo(a);2387,09;Privada;Formado;;Não;10;87,7
+27;Masculino;Viúvo(a);4892,37;Pública;Ativo;;Sim;6;69,4
+17;Feminino;Viúvo(a);2870,85;Pública;Evadido;Dificuldade financeira;Não;9;81,9
+33;Outro;Viúvo(a);3268,13;Pública;Ativo;;Não;8;83,5
+24;Outro;Solteiro(a);795,13;Privada;Formado;;Sim;3;68
+34;Feminino;Viúvo(a);2727,99;Privada;Ativo;;Não;1;62
+17;Masculino;Solteiro(a);3187,55;Privada;Ativo;;Sim;1;61,7
+25;Feminino;Solteiro(a);1013,7;Privada;Evadido;Trabalho;Não;7;77,2
+17;Masculino;Divorciado(a);3917,3;Pública;Ativo;;Não;2;65,5
+19;Feminino;Viúvo(a);3767,52;Pública;Ativo;;Não;2;65,9
+34;Outro;Viúvo(a);2968,44;Privada;Ativo;;Sim;6;76,4
+25;Feminino;Divorciado(a);3022,49;Pública;Ativo;;Não;7;77,2
+28;Masculino;Divorciado(a);2096,63;Pública;Ativo;;Não;2;63,7
+21;Feminino;Divorciado(a);4083,46;Pública;Formado;;Sim;1;62,4
+33;Feminino;Solteiro(a);3755,24;Privada;Evadido;Motivos pessoais;Sim;5;69,8
+29;Feminino;Divorciado(a);2185,24;Pública;Ativo;;Não;9;81,4
+20;Outro;Casado(a);2679,84;Pública;Evadido;Dificuldade financeira;Não;7;73,5
+18;Outro;Solteiro(a);2112,46;Pública;Evadido;Baixo desempenho;Não;1;62,2
+28;Feminino;Solteiro(a);3383,11;Privada;Evadido;Baixo desempenho;Não;7;77,9
+17;Masculino;Viúvo(a);1415,43;Privada;Ativo;;Sim;6;75,1
+33;Masculino;Viúvo(a);2009,44;Privada;Evadido;Dificuldade financeira;Sim;10;88,7
+27;Masculino;Divorciado(a);2475,37;Privada;Ativo;;Sim;4;68,9
+27;Feminino;Solteiro(a);3430,81;Privada;Formado;;Sim;9;80,4
+19;Masculino;Casado(a);2926,15;Pública;Formado;;Sim;4;68,2
+25;Outro;Divorciado(a);3996,63;Pública;Ativo;;Sim;10;81,9
+27;Masculino;Divorciado(a);3512,74;Privada;Formado;;Sim;9;80,6
+21;Feminino;Divorciado(a);2366,27;Privada;Ativo;;Não;1;62,5
+25;Outro;Casado(a);4459,41;Privada;Ativo;;Não;7;72
+24;Outro;Divorciado(a);2922,5;Pública;Evadido;Dificuldade financeira;Sim;10;81,5
+32;Feminino;Viúvo(a);3323,2;Pública;Ativo;;Sim;6;69,4
+31;Feminino;Divorciado(a);3312,34;Privada;Ativo;;Não;6;72,2
+23;Feminino;Casado(a);1785,82;Privada;Ativo;;Sim;3;67,6
+29;Masculino;Solteiro(a);1743,56;Privada;Evadido;Trabalho;Não;9;82,2
+25;Masculino;Viúvo(a);1951,04;Privada;Evadido;Mudança de curso;Não;2;63,6
+26;Masculino;Casado(a);1008,1;Privada;Formado;;Não;1;61,5
+29;Masculino;Casado(a);1814,97;Privada;Ativo;;Não;2;65
+31;Outro;Divorciado(a);1786,73;Privada;Evadido;Baixo desempenho;Sim;8;74,1
+25;Feminino;Casado(a);2212,84;Privada;Evadido;Baixo desempenho;Sim;8;79,4
+33;Outro;Viúvo(a);2259,32;Privada;Formado;;Não;1;61,9
+22;Masculino;Casado(a);3877,26;Pública;Ativo;;Não;8;77,2
+21;Feminino;Divorciado(a);3241,07;Pública;Evadido;Motivos pessoais;Não;9;85,9
+21;Feminino;Casado(a);1689,11;Privada;Evadido;Trabalho;Sim;10;82,7
+18;Feminino;Casado(a);1630,96;Privada;Evadido;Baixo desempenho;Sim;6;72,4
+29;Masculino;Viúvo(a);1451,01;Pública;Evadido;Trabalho;Não;5;68,9
+22;Feminino;Viúvo(a);2626,08;Privada;Evadido;Mudança de curso;Não;1;61,5
+17;Feminino;Divorciado(a);3525,1;Pública;Ativo;;Sim;1;62,6
+25;Outro;Viúvo(a);2593,46;Pública;Evadido;Dificuldade financeira;Sim;5;72,2
+32;Feminino;Viúvo(a);2134,3;Pública;Formado;;Não;9;86,5
+19;Masculino;Viúvo(a);4156,26;Privada;Evadido;Baixo desempenho;Não;4;69,6
+33;Masculino;Divorciado(a);2677,19;Privada;Ativo;;Não;8;74,7
+20;Masculino;Viúvo(a);2421,23;Privada;Evadido;Baixo desempenho;Não;9;85,8
+28;Masculino;Divorciado(a);2290,63;Privada;Formado;;Sim;4;67
+23;Masculino;Solteiro(a);4700,7;Pública;Ativo;;Sim;4;66,3
+19;Feminino;Viúvo(a);2804,11;Pública;Ativo;;Sim;7;75,7
+27;Outro;Viúvo(a);2413,48;Pública;Formado;;Sim;4;68
+30;Outro;Solteiro(a);3605,39;Privada;Evadido;Motivos pessoais;Sim;5;72,5
+20;Feminino;Divorciado(a);3096,26;Privada;Ativo;;Sim;9;78,9
+17;Outro;Viúvo(a);2684,86;Privada;Evadido;Trabalho;Sim;8;83,6
+24;Feminino;Casado(a);2515,52;Pública;Ativo;;Não;7;71,2
+34;Masculino;Casado(a);1244,33;Privada;Ativo;;Sim;8;83,7
+18;Feminino;Solteiro(a);1739,84;Pública;Evadido;Baixo desempenho;Não;2;64,9
+21;Masculino;Casado(a);3054,47;Privada;Ativo;;Não;9;78,6
+17;Feminino;Viúvo(a);899,56;Privada;Evadido;Baixo desempenho;Não;6;77,6
+23;Feminino;Viúvo(a);2948,07;Pública;Formado;;Sim;9;75,9
+20;Outro;Divorciado(a);3547,86;Privada;Evadido;Baixo desempenho;Sim;4;69,5
+29;Masculino;Casado(a);3165,6;Privada;Ativo;;Sim;8;74,1
+21;Masculino;Divorciado(a);2123,32;Pública;Ativo;;Sim;6;71
+18;Masculino;Casado(a);1997,41;Pública;Evadido;Motivos pessoais;Sim;8;78,4
+30;Masculino;Casado(a);2935,88;Privada;Ativo;;Sim;1;62,4
+21;Masculino;Viúvo(a);4843,47;Privada;Ativo;;Sim;3;67,6
+18;Feminino;Solteiro(a);4362,93;Privada;Ativo;;Sim;4;67,1
+24;Feminino;Viúvo(a);1208,35;Privada;Formado;;Sim;2;64,3
+17;Feminino;Solteiro(a);3090,7;Privada;Evadido;Mudança de curso;Não;6;72,1
+24;Masculino;Divorciado(a);1041,91;Pública;Formado;;Sim;2;64,4
+24;Feminino;Viúvo(a);2038,03;Pública;Evadido;Motivos pessoais;Sim;9;84,1
+17;Outro;Casado(a);3490,13;Privada;Ativo;;Não;9;75
+28;Feminino;Casado(a);2735,91;Pública;Formado;;Não;1;62,2
+26;Feminino;Divorciado(a);3718,99;Privada;Ativo;;Sim;6;74,6
+33;Masculino;Casado(a);1326,6;Privada;Evadido;Baixo desempenho;Sim;7;77,8
+22;Outro;Casado(a);1623,83;Privada;Evadido;Trabalho;Não;2;64,2
+34;Masculino;Divorciado(a);3764,63;Privada;Ativo;;Sim;4;67
+23;Outro;Viúvo(a);1887,39;Privada;Ativo;;Não;8;83,4
+26;Outro;Casado(a);981,89;Pública;Ativo;;Não;1;61,7
+25;Outro;Casado(a);1707,32;Pública;Ativo;;Sim;4;69,9
+28;Masculino;Viúvo(a);846,3;Pública;Evadido;Baixo desempenho;Sim;10;88,2
+20;Feminino;Divorciado(a);2912,31;Pública;Evadido;Mudança de curso;Sim;6;71,2
+18;Feminino;Casado(a);2900,54;Privada;Ativo;;Sim;5;73,1
+30;Masculino;Casado(a);4375,8;Privada;Formado;;Sim;9;79,5
+20;Feminino;Divorciado(a);1038,65;Privada;Evadido;Baixo desempenho;Não;8;72,4
+24;Masculino;Casado(a);2183,91;Pública;Formado;;Sim;10;82,6
+20;Feminino;Solteiro(a);1939,32;Privada;Ativo;;Não;3;66,6
+21;Feminino;Divorciado(a);4581,67;Pública;Evadido;Mudança de curso;Não;4;69,3
+24;Masculino;Casado(a);2357,68;Privada;Formado;;Sim;2;65,1
+22;Outro;Viúvo(a);2251,34;Privada;Formado;;Não;3;67,8
+29;Feminino;Solteiro(a);738,84;Pública;Ativo;;Sim;2;64,5
+35;Feminino;Casado(a);2124,25;Privada;Ativo;;Sim;9;80
+23;Feminino;Casado(a);2349,23;Privada;Ativo;;Não;1;63
+21;Feminino;Divorciado(a);2307,39;Privada;Formado;;Sim;7;77
+23;Feminino;Casado(a);500;Pública;Ativo;;Não;2;63,3
+21;Masculino;Divorciado(a);2397,09;Pública;Formado;;Sim;2;63,3
+31;Outro;Solteiro(a);979,66;Pública;Evadido;Dificuldade financeira;Não;10;76
+30;Outro;Solteiro(a);2067,11;Privada;Formado;;Sim;4;70,5
+19;Feminino;Casado(a);604,82;Pública;Formado;;Não;1;62,8
+23;Outro;Solteiro(a);1944,87;Pública;Formado;;Sim;9;82,4
+20;Outro;Divorciado(a);2466,31;Pública;Evadido;Dificuldade financeira;Não;8;72,9
+29;Feminino;Casado(a);3953,97;Pública;Ativo;;Não;7;80,1
+20;Masculino;Solteiro(a);2115,88;Pública;Ativo;;Sim;3;67,1
+21;Outro;Casado(a);3713,65;Privada;Formado;;Não;9;76,6
+30;Outro;Viúvo(a);2849,27;Privada;Evadido;Trabalho;Não;7;76,3
+22;Outro;Viúvo(a);2086,24;Pública;Evadido;Dificuldade financeira;Sim;10;78,7
+21;Outro;Casado(a);2229,45;Pública;Evadido;Dificuldade financeira;Não;4;67,5
+34;Feminino;Solteiro(a);2919,57;Pública;Evadido;Baixo desempenho;Não;5;68,1
+31;Feminino;Solteiro(a);3677,63;Privada;Evadido;Trabalho;Não;4;71,8
+22;Masculino;Casado(a);3240,27;Privada;Ativo;;Sim;10;86,5
+20;Feminino;Solteiro(a);2876,92;Privada;Ativo;;Não;3;65,9
+20;Outro;Viúvo(a);1525,7;Pública;Ativo;;Sim;10;78,6
+29;Masculino;Casado(a);2153,91;Pública;Evadido;Motivos pessoais;Não;9;73,6
+24;Outro;Casado(a);3799,83;Privada;Evadido;Mudança de curso;Não;6;71,3
+30;Outro;Divorciado(a);2814,38;Privada;Formado;;Não;8;83
+22;Masculino;Casado(a);3135,53;Pública;Evadido;Baixo desempenho;Sim;9;86,6
+21;Feminino;Viúvo(a);2367,3;Pública;Ativo;;Sim;3;65
+22;Outro;Casado(a);1791,32;Privada;Ativo;;Sim;9;80,4
+24;Outro;Divorciado(a);3727,49;Pública;Evadido;Mudança de curso;Não;9;77,7
+17;Feminino;Viúvo(a);500;Pública;Ativo;;Não;6;76,2
+33;Outro;Solteiro(a);2535,94;Privada;Formado;;Sim;2;65,1
+30;Outro;Viúvo(a);1459,21;Privada;Evadido;Motivos pessoais;Não;6;75,4
+18;Outro;Divorciado(a);3592,86;Privada;Ativo;;Não;2;63,2
+27;Feminino;Viúvo(a);955,97;Privada;Evadido;Trabalho;Sim;2;65
+18;Outro;Viúvo(a);1629,88;Privada;Ativo;;Não;6;73,7
+24;Outro;Casado(a);2624,36;Privada;Ativo;;Não;4;70,8
+18;Masculino;Casado(a);2539,91;Pública;Ativo;;Não;4;68,4
+32;Feminino;Casado(a);1352,76;Pública;Ativo;;Não;3;66,2
+25;Feminino;Casado(a);4169,38;Privada;Evadido;Trabalho;Sim;6;72
+23;Masculino;Divorciado(a);2966,37;Pública;Formado;;Sim;9;79,8
+17;Outro;Viúvo(a);2471,13;Privada;Formado;;Não;7;77
+32;Masculino;Casado(a);3141,08;Pública;Ativo;;Sim;6;74
+24;Feminino;Casado(a);722,38;Privada;Formado;;Não;2;64,5
