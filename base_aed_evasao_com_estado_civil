@@ -1,0 +1,151 @@
+Idade;G�nero;Estado Civil;Renda Familiar (R$);Escola Ensino M�dio;Status;Motivo da Evas�o;Trabalha Atualmente;�ltimo Per�odo Cursado;Desempenho
+18;Feminino;Solteiro(a);1414,37;P�blica;Ativo;;N�o;5;68,5
+20;Masculino;Divorciado(a);4238,37;Privada;Evadido;Dificuldade financeira;N�o;6;76,4
+18;Masculino;Vi�vo(a);2295,8;P�blica;Ativo;;N�o;9;77,8
+27;Outro;Solteiro(a);3765,94;P�blica;Evadido;Baixo desempenho;Sim;1;61,9
+30;Masculino;Casado(a);3991,39;Privada;Ativo;;Sim;1;61,6
+27;Outro;Divorciado(a);2626,53;Privada;Evadido;Motivos pessoais;Sim;1;62,1
+19;Outro;Solteiro(a);2425,61;P�blica;Evadido;Baixo desempenho;Sim;1;61,8
+26;Feminino;Solteiro(a);1564,17;Privada;Ativo;;N�o;8;76,4
+18;Feminino;Divorciado(a);1752,35;Privada;Evadido;Trabalho;N�o;4;69,7
+33;Outro;Casado(a);2173,05;Privada;Ativo;;Sim;7;79,5
+33;Feminino;Casado(a);2798,23;Privada;Evadido;Baixo desempenho;N�o;6;75,4
+33;Masculino;Solteiro(a);4861,6;P�blica;Ativo;;Sim;8;72,2
+25;Masculino;Solteiro(a);1694,63;Privada;Formado;;N�o;9;81,8
+29;Masculino;Vi�vo(a);2387,09;Privada;Formado;;N�o;10;87,7
+27;Masculino;Vi�vo(a);4892,37;P�blica;Ativo;;Sim;6;69,4
+17;Feminino;Vi�vo(a);2870,85;P�blica;Evadido;Dificuldade financeira;N�o;9;81,9
+33;Outro;Vi�vo(a);3268,13;P�blica;Ativo;;N�o;8;83,5
+24;Outro;Solteiro(a);795,13;Privada;Formado;;Sim;3;68
+34;Feminino;Vi�vo(a);2727,99;Privada;Ativo;;N�o;1;62
+17;Masculino;Solteiro(a);3187,55;Privada;Ativo;;Sim;1;61,7
+25;Feminino;Solteiro(a);1013,7;Privada;Evadido;Trabalho;N�o;7;77,2
+17;Masculino;Divorciado(a);3917,3;P�blica;Ativo;;N�o;2;65,5
+19;Feminino;Vi�vo(a);3767,52;P�blica;Ativo;;N�o;2;65,9
+34;Outro;Vi�vo(a);2968,44;Privada;Ativo;;Sim;6;76,4
+25;Feminino;Divorciado(a);3022,49;P�blica;Ativo;;N�o;7;77,2
+28;Masculino;Divorciado(a);2096,63;P�blica;Ativo;;N�o;2;63,7
+21;Feminino;Divorciado(a);4083,46;P�blica;Formado;;Sim;1;62,4
+33;Feminino;Solteiro(a);3755,24;Privada;Evadido;Motivos pessoais;Sim;5;69,8
+29;Feminino;Divorciado(a);2185,24;P�blica;Ativo;;N�o;9;81,4
+20;Outro;Casado(a);2679,84;P�blica;Evadido;Dificuldade financeira;N�o;7;73,5
+18;Outro;Solteiro(a);2112,46;P�blica;Evadido;Baixo desempenho;N�o;1;62,2
+28;Feminino;Solteiro(a);3383,11;Privada;Evadido;Baixo desempenho;N�o;7;77,9
+17;Masculino;Vi�vo(a);1415,43;Privada;Ativo;;Sim;6;75,1
+33;Masculino;Vi�vo(a);2009,44;Privada;Evadido;Dificuldade financeira;Sim;10;88,7
+27;Masculino;Divorciado(a);2475,37;Privada;Ativo;;Sim;4;68,9
+27;Feminino;Solteiro(a);3430,81;Privada;Formado;;Sim;9;80,4
+19;Masculino;Casado(a);2926,15;P�blica;Formado;;Sim;4;68,2
+25;Outro;Divorciado(a);3996,63;P�blica;Ativo;;Sim;10;81,9
+27;Masculino;Divorciado(a);3512,74;Privada;Formado;;Sim;9;80,6
+21;Feminino;Divorciado(a);2366,27;Privada;Ativo;;N�o;1;62,5
+25;Outro;Casado(a);4459,41;Privada;Ativo;;N�o;7;72
+24;Outro;Divorciado(a);2922,5;P�blica;Evadido;Dificuldade financeira;Sim;10;81,5
+32;Feminino;Vi�vo(a);3323,2;P�blica;Ativo;;Sim;6;69,4
+31;Feminino;Divorciado(a);3312,34;Privada;Ativo;;N�o;6;72,2
+23;Feminino;Casado(a);1785,82;Privada;Ativo;;Sim;3;67,6
+29;Masculino;Solteiro(a);1743,56;Privada;Evadido;Trabalho;N�o;9;82,2
+25;Masculino;Vi�vo(a);1951,04;Privada;Evadido;Mudan�a de curso;N�o;2;63,6
+26;Masculino;Casado(a);1008,1;Privada;Formado;;N�o;1;61,5
+29;Masculino;Casado(a);1814,97;Privada;Ativo;;N�o;2;65
+31;Outro;Divorciado(a);1786,73;Privada;Evadido;Baixo desempenho;Sim;8;74,1
+25;Feminino;Casado(a);2212,84;Privada;Evadido;Baixo desempenho;Sim;8;79,4
+33;Outro;Vi�vo(a);2259,32;Privada;Formado;;N�o;1;61,9
+22;Masculino;Casado(a);3877,26;P�blica;Ativo;;N�o;8;77,2
+21;Feminino;Divorciado(a);3241,07;P�blica;Evadido;Motivos pessoais;N�o;9;85,9
+21;Feminino;Casado(a);1689,11;Privada;Evadido;Trabalho;Sim;10;82,7
+18;Feminino;Casado(a);1630,96;Privada;Evadido;Baixo desempenho;Sim;6;72,4
+29;Masculino;Vi�vo(a);1451,01;P�blica;Evadido;Trabalho;N�o;5;68,9
+22;Feminino;Vi�vo(a);2626,08;Privada;Evadido;Mudan�a de curso;N�o;1;61,5
+17;Feminino;Divorciado(a);3525,1;P�blica;Ativo;;Sim;1;62,6
+25;Outro;Vi�vo(a);2593,46;P�blica;Evadido;Dificuldade financeira;Sim;5;72,2
+32;Feminino;Vi�vo(a);2134,3;P�blica;Formado;;N�o;9;86,5
+19;Masculino;Vi�vo(a);4156,26;Privada;Evadido;Baixo desempenho;N�o;4;69,6
+33;Masculino;Divorciado(a);2677,19;Privada;Ativo;;N�o;8;74,7
+20;Masculino;Vi�vo(a);2421,23;Privada;Evadido;Baixo desempenho;N�o;9;85,8
+28;Masculino;Divorciado(a);2290,63;Privada;Formado;;Sim;4;67
+23;Masculino;Solteiro(a);4700,7;P�blica;Ativo;;Sim;4;66,3
+19;Feminino;Vi�vo(a);2804,11;P�blica;Ativo;;Sim;7;75,7
+27;Outro;Vi�vo(a);2413,48;P�blica;Formado;;Sim;4;68
+30;Outro;Solteiro(a);3605,39;Privada;Evadido;Motivos pessoais;Sim;5;72,5
+20;Feminino;Divorciado(a);3096,26;Privada;Ativo;;Sim;9;78,9
+17;Outro;Vi�vo(a);2684,86;Privada;Evadido;Trabalho;Sim;8;83,6
+24;Feminino;Casado(a);2515,52;P�blica;Ativo;;N�o;7;71,2
+34;Masculino;Casado(a);1244,33;Privada;Ativo;;Sim;8;83,7
+18;Feminino;Solteiro(a);1739,84;P�blica;Evadido;Baixo desempenho;N�o;2;64,9
+21;Masculino;Casado(a);3054,47;Privada;Ativo;;N�o;9;78,6
+17;Feminino;Vi�vo(a);899,56;Privada;Evadido;Baixo desempenho;N�o;6;77,6
+23;Feminino;Vi�vo(a);2948,07;P�blica;Formado;;Sim;9;75,9
+20;Outro;Divorciado(a);3547,86;Privada;Evadido;Baixo desempenho;Sim;4;69,5
+29;Masculino;Casado(a);3165,6;Privada;Ativo;;Sim;8;74,1
+21;Masculino;Divorciado(a);2123,32;P�blica;Ativo;;Sim;6;71
+18;Masculino;Casado(a);1997,41;P�blica;Evadido;Motivos pessoais;Sim;8;78,4
+30;Masculino;Casado(a);2935,88;Privada;Ativo;;Sim;1;62,4
+21;Masculino;Vi�vo(a);4843,47;Privada;Ativo;;Sim;3;67,6
+18;Feminino;Solteiro(a);4362,93;Privada;Ativo;;Sim;4;67,1
+24;Feminino;Vi�vo(a);1208,35;Privada;Formado;;Sim;2;64,3
+17;Feminino;Solteiro(a);3090,7;Privada;Evadido;Mudan�a de curso;N�o;6;72,1
+24;Masculino;Divorciado(a);1041,91;P�blica;Formado;;Sim;2;64,4
+24;Feminino;Vi�vo(a);2038,03;P�blica;Evadido;Motivos pessoais;Sim;9;84,1
+17;Outro;Casado(a);3490,13;Privada;Ativo;;N�o;9;75
+28;Feminino;Casado(a);2735,91;P�blica;Formado;;N�o;1;62,2
+26;Feminino;Divorciado(a);3718,99;Privada;Ativo;;Sim;6;74,6
+33;Masculino;Casado(a);1326,6;Privada;Evadido;Baixo desempenho;Sim;7;77,8
+22;Outro;Casado(a);1623,83;Privada;Evadido;Trabalho;N�o;2;64,2
+34;Masculino;Divorciado(a);3764,63;Privada;Ativo;;Sim;4;67
+23;Outro;Vi�vo(a);1887,39;Privada;Ativo;;N�o;8;83,4
+26;Outro;Casado(a);981,89;P�blica;Ativo;;N�o;1;61,7
+25;Outro;Casado(a);1707,32;P�blica;Ativo;;Sim;4;69,9
+28;Masculino;Vi�vo(a);846,3;P�blica;Evadido;Baixo desempenho;Sim;10;88,2
+20;Feminino;Divorciado(a);2912,31;P�blica;Evadido;Mudan�a de curso;Sim;6;71,2
+18;Feminino;Casado(a);2900,54;Privada;Ativo;;Sim;5;73,1
+30;Masculino;Casado(a);4375,8;Privada;Formado;;Sim;9;79,5
+20;Feminino;Divorciado(a);1038,65;Privada;Evadido;Baixo desempenho;N�o;8;72,4
+24;Masculino;Casado(a);2183,91;P�blica;Formado;;Sim;10;82,6
+20;Feminino;Solteiro(a);1939,32;Privada;Ativo;;N�o;3;66,6
+21;Feminino;Divorciado(a);4581,67;P�blica;Evadido;Mudan�a de curso;N�o;4;69,3
+24;Masculino;Casado(a);2357,68;Privada;Formado;;Sim;2;65,1
+22;Outro;Vi�vo(a);2251,34;Privada;Formado;;N�o;3;67,8
+29;Feminino;Solteiro(a);738,84;P�blica;Ativo;;Sim;2;64,5
+35;Feminino;Casado(a);2124,25;Privada;Ativo;;Sim;9;80
+23;Feminino;Casado(a);2349,23;Privada;Ativo;;N�o;1;63
+21;Feminino;Divorciado(a);2307,39;Privada;Formado;;Sim;7;77
+23;Feminino;Casado(a);500;P�blica;Ativo;;N�o;2;63,3
+21;Masculino;Divorciado(a);2397,09;P�blica;Formado;;Sim;2;63,3
+31;Outro;Solteiro(a);979,66;P�blica;Evadido;Dificuldade financeira;N�o;10;76
+30;Outro;Solteiro(a);2067,11;Privada;Formado;;Sim;4;70,5
+19;Feminino;Casado(a);604,82;P�blica;Formado;;N�o;1;62,8
+23;Outro;Solteiro(a);1944,87;P�blica;Formado;;Sim;9;82,4
+20;Outro;Divorciado(a);2466,31;P�blica;Evadido;Dificuldade financeira;N�o;8;72,9
+29;Feminino;Casado(a);3953,97;P�blica;Ativo;;N�o;7;80,1
+20;Masculino;Solteiro(a);2115,88;P�blica;Ativo;;Sim;3;67,1
+21;Outro;Casado(a);3713,65;Privada;Formado;;N�o;9;76,6
+30;Outro;Vi�vo(a);2849,27;Privada;Evadido;Trabalho;N�o;7;76,3
+22;Outro;Vi�vo(a);2086,24;P�blica;Evadido;Dificuldade financeira;Sim;10;78,7
+21;Outro;Casado(a);2229,45;P�blica;Evadido;Dificuldade financeira;N�o;4;67,5
+34;Feminino;Solteiro(a);2919,57;P�blica;Evadido;Baixo desempenho;N�o;5;68,1
+31;Feminino;Solteiro(a);3677,63;Privada;Evadido;Trabalho;N�o;4;71,8
+22;Masculino;Casado(a);3240,27;Privada;Ativo;;Sim;10;86,5
+20;Feminino;Solteiro(a);2876,92;Privada;Ativo;;N�o;3;65,9
+20;Outro;Vi�vo(a);1525,7;P�blica;Ativo;;Sim;10;78,6
+29;Masculino;Casado(a);2153,91;P�blica;Evadido;Motivos pessoais;N�o;9;73,6
+24;Outro;Casado(a);3799,83;Privada;Evadido;Mudan�a de curso;N�o;6;71,3
+30;Outro;Divorciado(a);2814,38;Privada;Formado;;N�o;8;83
+22;Masculino;Casado(a);3135,53;P�blica;Evadido;Baixo desempenho;Sim;9;86,6
+21;Feminino;Vi�vo(a);2367,3;P�blica;Ativo;;Sim;3;65
+22;Outro;Casado(a);1791,32;Privada;Ativo;;Sim;9;80,4
+24;Outro;Divorciado(a);3727,49;P�blica;Evadido;Mudan�a de curso;N�o;9;77,7
+17;Feminino;Vi�vo(a);500;P�blica;Ativo;;N�o;6;76,2
+33;Outro;Solteiro(a);2535,94;Privada;Formado;;Sim;2;65,1
+30;Outro;Vi�vo(a);1459,21;Privada;Evadido;Motivos pessoais;N�o;6;75,4
+18;Outro;Divorciado(a);3592,86;Privada;Ativo;;N�o;2;63,2
+27;Feminino;Vi�vo(a);955,97;Privada;Evadido;Trabalho;Sim;2;65
+18;Outro;Vi�vo(a);1629,88;Privada;Ativo;;N�o;6;73,7
+24;Outro;Casado(a);2624,36;Privada;Ativo;;N�o;4;70,8
+18;Masculino;Casado(a);2539,91;P�blica;Ativo;;N�o;4;68,4
+32;Feminino;Casado(a);1352,76;P�blica;Ativo;;N�o;3;66,2
+25;Feminino;Casado(a);4169,38;Privada;Evadido;Trabalho;Sim;6;72
+23;Masculino;Divorciado(a);2966,37;P�blica;Formado;;Sim;9;79,8
+17;Outro;Vi�vo(a);2471,13;Privada;Formado;;N�o;7;77
+32;Masculino;Casado(a);3141,08;P�blica;Ativo;;Sim;6;74
+24;Feminino;Casado(a);722,38;Privada;Formado;;N�o;2;64,5
